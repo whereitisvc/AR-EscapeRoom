@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ARSimpleNativeCarsActivity!</string>
+    <string name="app_name">ARSimpleNativeCars</string>
+
+    <string name="start_string">WELCOME/nHAHAHAHAHHA</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Save budhha</string>
+</resources>

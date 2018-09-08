@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    >
+    <TableRow >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/img"
+            android:cacheColorHint="#000000"
+            android:background="#00dddd">
+        </ImageView>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="150dp"
+            android:id="@+id/name"
+            android:cacheColorHint="#000000"
+            android:background="#000000">
+        </TextView>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="180dp"
+            android:id="@+id/num"
+            android:cacheColorHint="#000000"
+            android:background="#000000">
+        </TextView>
+    </TableRow>
+</TableLayout>
